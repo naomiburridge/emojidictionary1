@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					B397CCDF1E2C736E00313ED7 = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = 6QTTE2VJR9;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -260,6 +261,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 6QTTE2VJR9;
 				INFOPLIST_FILE = "Emoji Dictionary1/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "nb.Emoji-Dictionary1";
@@ -272,6 +274,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 6QTTE2VJR9;
 				INFOPLIST_FILE = "Emoji Dictionary1/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "nb.Emoji-Dictionary1";
